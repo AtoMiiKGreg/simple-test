@@ -34,7 +34,7 @@ impl Setting {
         println!("TEST pg user: {}",pg_user);
         println!("TEST pg password: {}",pg_password);
         println!("TEST host: {}",host);
-        println!("TEST db name: {}",db_name);
+        println!("TEST db nam: {}",db_name);
     }
 
  /*   let test = dotenv().ok().unwrap();
